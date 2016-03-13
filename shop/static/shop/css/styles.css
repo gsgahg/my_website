@@ -1,0 +1,71 @@
+.bgimage {
+	background-image: url('../images/background.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+
+.content{
+	padding-top: 100px;
+}
+
+.icon {
+	max-width: 220px;
+	margin: 0 auto;
+	display: block;
+}
+
+.services section {
+	text-align: center;
+}
+
+
+.img-responsive {
+		max-height:250px;
+}
+
+
+.img-thumbnail {
+	border: 100px solid #B22222;
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-size: 16px;
+	color: #080808;
+}
+
+.navbar-default {
+	background-color: red;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #F96868;
+    color: #FFC0CB;
+}
+
+.navbar-default .navbar-brand {
+	color: #080808;
+}
+
+.btn-default {
+	background-color: #D86969;
+}
+
+
+
+.row {
+}
+
+.size {
+	height: 460px;
+	margin-bottom: 15px;
+}
+
+
+
+.thumbnail {
+	height: 560px;
+}
